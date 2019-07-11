@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="tst_colorTextEnabled" format="reference|color"/>
+    <attr name="tst_colorTextDisabled" format="reference|color"/>
+    <attr name="tst_colorBackground1" format="reference|color"/>
+    <attr name="tst_colorBackground2" format="reference|color"/>
+    <attr name="tst_style" format="reference|color"/>
+</resources>

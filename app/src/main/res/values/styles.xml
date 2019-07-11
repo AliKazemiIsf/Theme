@@ -1,0 +1,28 @@
+<resources>
+    <style name="AppTheme.PINK" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#d81b60</item>
+        <item name="colorPrimaryDark">#78002e</item>
+        <item name="colorAccent">#a1887f</item>
+        <item name="tst_colorTextEnabled">#000000</item>
+        <item name="tst_colorTextDisabled">#9e9e9e</item>
+        <item name="tst_colorBackground1">#fbc02d</item>
+        <item name="tst_colorBackground2">#e64a19</item>
+        <item name="tst_style">#43a047</item>
+    </style>
+
+    <style name="AppTheme.GREEN" parent="Theme.AppCompat">
+        <item name="colorPrimary">#76ff03</item>
+        <item name="colorPrimaryDark">#32cb00</item>
+        <item name="colorAccent">#7f0000</item>
+        <item name="tst_colorTextEnabled">#0081cb</item>
+        <item name="tst_colorTextDisabled">#18ffff</item>
+        <item name="tst_colorBackground1">#4caf50</item>
+        <item name="tst_colorBackground2">#00838f</item>
+        <item name="tst_style">#ffc107</item>
+    </style>
+
+    <style name="AppTheme.OBJECTS" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">?attr/tst_style</item>
+    </style>
+    
+</resources>
